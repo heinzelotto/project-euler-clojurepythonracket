@@ -7,4 +7,10 @@ Problems `3n+k` are solved using `k =`
 2. Python
 3. Racket
 
-Recent status: 6/582
+(exceptions were made when worthwhile)
+
+Recent status: 8/582
+
+### Notable optimizations
+
+008.clj -- optimization by preprocessing the problem to skip sections where no solution will be found anyway. This doubles speed, but code gets less readable
