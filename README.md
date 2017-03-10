@@ -7,4 +7,4 @@ Problems `3n+k` are solved using `k =`
 2. Python
 3. Racket
 
-Current status: 1/582
+Recent status: 6/582
