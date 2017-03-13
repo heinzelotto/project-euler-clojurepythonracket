@@ -9,9 +9,10 @@ Problems `3n+k` are solved using `k =`
 
 (exceptions were made when worthwhile)
 
-Recent status: 11/582
+Recent status: 12/582
 
 ### Notable optimizations
 
 008.clj -- optimization by preprocessing the problem to skip sections where no solution will be found anyway. This doubles speed, but code gets less readable
+
 012.rkt -- uses number of divisors formula, the fact that two successive numbers are coprime.
