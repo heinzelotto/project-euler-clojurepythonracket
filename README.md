@@ -9,7 +9,7 @@ Problems `3n+k` are solved using `k =`
 
 (exceptions were made when worthwhile)
 
-Recent status: 16/582
+Recent status: 17/582
 
 ### Notable optimizations
 
